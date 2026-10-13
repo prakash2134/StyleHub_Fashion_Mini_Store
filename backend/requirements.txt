@@ -1,0 +1,9 @@
+fastapi>=0.110,<1.0
+uvicorn[standard]>=0.29
+SQLAlchemy>=2.0,<3.0
+pydantic[email]>=2.6,<3.0
+pydantic-settings>=2.2
+PyJWT>=2.8
+bcrypt>=4.1
+stripe>=8.0
+python-multipart>=0.0.9
