@@ -1,3 +1,5 @@
+<img width="1470" height="956" alt="Screenshot 2026-10-13 at 11 36 44 AM" src="https://github.com/user-attachments/assets/f765cd79-4230-4377-a9b9-6f09813d4da2" />
+<img width="1470" height="956" alt="Screenshot 2026-10-13 at 11 36 31 AM" src="https://github.com/user-attachments/assets/20015c25-7c02-4a0f-87b2-3cdc7a086383" />
 # StyleHub – Fashion Mini Store
 
 A full-stack fashion store: register, log in, browse products, build a cart and pay with Stripe (test mode).
