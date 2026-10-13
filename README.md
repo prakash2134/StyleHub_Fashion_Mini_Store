@@ -1,5 +1,4 @@
-<img width="1470" height="956" alt="Screenshot 2026-10-13 at 11 36 44 AM" src="https://github.com/user-attachments/assets/f765cd79-4230-4377-a9b9-6f09813d4da2" />
-<img width="1470" height="956" alt="Screenshot 2026-10-13 at 11 36 31 AM" src="https://github.com/user-attachments/assets/20015c25-7c02-4a0f-87b2-3cdc7a086383" />
+
 # StyleHub – Fashion Mini Store
 
 A full-stack fashion store: register, log in, browse products, build a cart and pay with Stripe (test mode).
@@ -160,3 +159,11 @@ stylehub/
 - **"Payments aren't set up yet"**: the Stripe keys in `backend/.env` are empty. Add them and restart uvicorn.
 - **"Can't reach the server"**: the backend isn't running on port 8000.
 - **Reset the data**: stop the API and delete `backend/stylehub.db`. It is recreated and re-seeded on the next start.
+<img width="1470" height="956" alt="Screenshot 2026-10-13 at 11 39 30 AM" src="https://github.com/user-attachments/assets/86a9425d-90a1-4e31-853c-0d469510986d" />
+<img width="1470" height="956" alt="Screenshot 2026-10-13 at 11 39 09 AM" src="https://github.com/user-attachments/assets/3e739f04-8be4-4497-80c0-6fd1d203bb76" />
+<img width="1470" height="956" alt="Screenshot 2026-10-13 at 11 37 51 AM" src="https://github.com/user-attachments/assets/9ae3f26d-d41d-4e99-890e-3c6e5873c126" />
+<img width="1470" height="956" alt="Screenshot 2026-10-13 at 11 37 44 AM" src="https://github.com/user-attachments/assets/889169b7-3f6a-422e-8ace-fa87185230d0" />
+<img width="1470" height="956" alt="Screenshot 2026-10-13 at 11 37 04 AM" src="https://github.com/user-attachments/assets/5e30901b-6e0f-44e5-a54f-b82a1dde9994" />
+<img width="1470" height="956" alt="Screenshot 2026-10-13 at 11 36 55 AM" src="https://github.com/user-attachments/assets/4207cae1-03e3-436e-8431-13c395a28086" />
+<img width="1470" height="956" alt="Screenshot 2026-10-13 at 11 36 44 AM" src="https://github.com/user-attachments/assets/a4e27e2f-d7f0-468b-9f9d-155f9ed8a1b5" />
+<img width="1470" height="956" alt="Screenshot 2026-10-13 at 11 36 31 AM" src="https://github.com/user-attachments/assets/6440ab1e-429b-44de-90d4-21efd3216ea0" />
